@@ -1,1 +1,3 @@
-# aula-github
+# IA Check
+
+Sistema de inteligência artificial para verificação de documentos.
